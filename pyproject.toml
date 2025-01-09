@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pycounts"
+name = "pycounts-zjiang"
 version = "0.1.0"
 description = "Calculate word counts in a text file!"
 authors = ["Tomas Beuzen"]
@@ -9,7 +9,6 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = ">=3.9"
 matplotlib = ">=3.4.3"
-
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.3.4"
